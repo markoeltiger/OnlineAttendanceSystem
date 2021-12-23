@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModernLogin</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="apikey">AIzaSyAIxWUcLGnts3XeEz_DgTGiMLeG8qrv-98</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.damianvdb:materialchecklist:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d445d814089f73658e3f1a8e24c17097/transformed/jetified-materialchecklist-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d445d814089f73658e3f1a8e24c17097/transformed/jetified-materialchecklist-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d445d814089f73658e3f1a8e24c17097/transformed/jetified-materialchecklist-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.damianvdb/materialchecklist/1.0.0/902d0ca73d20fda49b5479d6b071c973b1eeaa0e/materialchecklist-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.damianvdb/materialchecklist/1.0.0/20797a58ffd4db0abf845eb21100392d3828ad9b/materialchecklist-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

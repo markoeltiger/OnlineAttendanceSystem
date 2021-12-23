@@ -1,0 +1,71 @@
+com/example/tripa/databinding/UpcomingItemBinding.java
+ com.example.tripa.databinding.UpcomingItemBinding
+com/example/tripa/databinding/FragmentThirdBinding.java
+ com.example.tripa.databinding.FragmentThirdBinding
+com/example/tripa/databinding/FragmentSecondBinding.java
+ com.example.tripa.databinding.FragmentSecondBinding
+com/example/tripa/RegisterActivity.java
+ com.example.tripa.RegisterActivity
+ com.example.tripa.RegisterActivity$1
+ com.example.tripa.RegisterActivity$2
+ com.example.tripa.RegisterActivity$3
+ com.example.tripa.RegisterActivity$4
+com/example/tripa/HomeActivity.java
+ com.example.tripa.HomeActivity
+com/example/tripa/ThirdFragment.java
+ com.example.tripa.ThirdFragment
+com/example/tripa/BuildConfig.java
+ com.example.tripa.BuildConfig
+com/example/tripa/APIPOJO.java
+ com.example.tripa.APIPOJO
+com/example/tripa/AlarmReceiver.java
+ com.example.tripa.AlarmReceiver
+com/example/tripa/TripReminder.java
+ com.example.tripa.TripReminder
+com/example/tripa/MyAdapter.java
+ com.example.tripa.MyAdapter
+ com.example.tripa.MyAdapter$MyViewHolder
+com/example/tripa/LoginActivity.java
+ com.example.tripa.LoginActivity
+ com.example.tripa.LoginActivity$1
+ com.example.tripa.LoginActivity$1$1
+com/example/tripa/Listlass.java
+ com.example.tripa.Listlass
+com/example/tripa/databinding/ActivityRegisterBinding.java
+ com.example.tripa.databinding.ActivityRegisterBinding
+com/example/tripa/databinding/FragmentFirstBinding.java
+ com.example.tripa.databinding.FragmentFirstBinding
+com/example/tripa/databinding/ActivityHomeBinding.java
+ com.example.tripa.databinding.ActivityHomeBinding
+com/example/tripa/FirstFragment.java
+ com.example.tripa.FirstFragment
+ com.example.tripa.FirstFragment$1
+com/example/tripa/Model.java
+ com.example.tripa.Model
+com/example/tripa/databinding/ActivityLoginBinding.java
+ com.example.tripa.databinding.ActivityLoginBinding
+com/example/tripa/databinding/ActivityDetailsBinding.java
+ com.example.tripa.databinding.ActivityDetailsBinding
+com/example/tripa/Users.java
+ com.example.tripa.Users
+com/example/tripa/DetailsActivity.java
+ com.example.tripa.DetailsActivity
+ com.example.tripa.DetailsActivity$1
+ com.example.tripa.DetailsActivity$2
+ com.example.tripa.DetailsActivity$3
+ com.example.tripa.DetailsActivity$4
+ com.example.tripa.DetailsActivity$4$1
+ com.example.tripa.DetailsActivity$4$1$1
+ com.example.tripa.DetailsActivity$4$2
+ com.example.tripa.DetailsActivity$5
+com/example/tripa/SecondFragment.java
+ com.example.tripa.SecondFragment
+ com.example.tripa.SecondFragment$1
+ com.example.tripa.SecondFragment$2
+ com.example.tripa.SecondFragment$3
+ com.example.tripa.SecondFragment$4
+ com.example.tripa.SecondFragment$4$1
+ com.example.tripa.SecondFragment$4$1$1
+ com.example.tripa.SecondFragment$5
+ com.example.tripa.SecondFragment$6
+ com.example.tripa.SecondFragment$6$1
